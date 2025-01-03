@@ -1,5 +1,6 @@
 # setting up VS code, manual step is better
 # install python3 via home brew or via direct installation from python website 
+# Read for managing multuple python version with pyenv https://opensource.com/article/19/5/python-3-default-mac
 # another options is to follow the below VS code link, but did not work
 https://code.visualstudio.com/docs/python/python-tutorial#__install-a-python-interpreter
 
